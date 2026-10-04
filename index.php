@@ -51,8 +51,8 @@
                     </li>
                     <li class="nav-item ms-lg-3">
                         <!-- Mengarah langsung ke halaman login (ubah 'login.php' sesuai nama file login Anda nantinya) -->
-                       <a class="btn btn-warning text-dark fw-semibold px-4" href="pages/login.php">
-                                <i class="fas fa-sign-in-alt me-1"></i> Login
+                        <a class="btn btn-warning text-dark fw-semibold px-4" href="pages/login.php">
+                            <i class="fas fa-sign-in-alt me-1"></i> Login
                         </a>
                     </li>
                 </ul>
